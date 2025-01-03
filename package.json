@@ -1,0 +1,21 @@
+{
+  "name": "shoxwave-vscode-theme",
+  "displayName": "shoxwave-vscode-theme",
+  "description": "Shoxwav's custom vscode theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shoxwave-VSCode-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shoxwave-VSCode-Theme-color-theme.json"
+      }
+    ]
+  }
+}
