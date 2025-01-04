@@ -2,7 +2,7 @@
   "name": "shoxwave-vscode-theme",
   "displayName": "shoxwave-vscode-theme",
   "description": "Shoxwave's custom vscode theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Shoxwave",
   "engines": {
     "vscode": "^1.96.0"
