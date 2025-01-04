@@ -1,14 +1,24 @@
 {
   "name": "shoxwave-vscode-theme",
   "displayName": "shoxwave-vscode-theme",
-  "description": "Shoxwav's custom vscode theme.",
+  "description": "Shoxwave's custom vscode theme.",
   "version": "0.0.1",
+  "publisher": "Shoxwave",
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
   ],
+  "keyworkds": [
+      "vscode",
+      "theme",
+      "dark"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/shoxwave/vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
